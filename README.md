@@ -11,7 +11,7 @@
 ---
 
 ## Données :
-- Les données utilisées ont été webscrapper depuis le site [theses.fr](https://theses.fr/?domaine=theses). Depuis, une API a été mise en place pour faciliter la récupération des données à l'adresse suivante [theses.fr API](https://documentation.abes.fr/aidethesesfr/index.html#PrincipeAPI).
+- Les [données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees/blob/main/Jeux%20de%20donn%C3%A9es/PhD_v3_sample.csv) utilisées ont été webscrapper depuis le site [theses.fr](https://theses.fr/?domaine=theses). Depuis, une API a été mise en place pour faciliter la récupération des données à l'adresse suivante [theses.fr API](https://documentation.abes.fr/aidethesesfr/index.html#PrincipeAPI).
 - Pour les données utilisées pour les cartes [Données](https://github.com/FabienHaury/DU-Unit2-Techniques-de-visualisation-de-donnees/blob/main/Jeux%20de%20donn%C3%A9es/df_russia_2022_final.csv)
 
 ---
